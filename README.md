@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**nathayoung/nathayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+<h1>Good Morning!</h1>
+  <p>
+🔭 I’m currently working on learning <a href='https://github.com/nathayoung/pluralsight/tree/Building-Deep-Learning-Solutions-with-PyTorch/Skill_Paths/Building_Deep_Learning_Solutions_with_PyTorch/Building_Deep_Learning_Models_Using_PyTorch'>Building Deep Learning Models Using PyTorch</a> and earning my <a href='https://www.mvnu.edu/gps/graduate-programs/mba-business-data-analytics'>MBA</a>.
+<br>
+<br>
+<a href="https://www.linkedin.com/in/nathayoung"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://app.pluralsight.com/profile/nathayoung"><img src="https://img.shields.io/badge/Pluralsight-d1487b?style=for-the-badge&logo=pluralsight&logoColor=white"></a>
+<a href="https://www.credly.com/users/nathayoung/badges"><img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white"></a>
+</div>
